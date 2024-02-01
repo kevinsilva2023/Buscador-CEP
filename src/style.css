@@ -82,3 +82,15 @@
         font-size: 28px;
     }
 }
+@media (max-width: 500px)  {
+    .title {
+        font-size: 50px;
+    }
+    .main {
+        width: 80%;
+        min-height: 250px;
+    }
+    .main h2 {
+        font-size: 28px;
+    }
+}
